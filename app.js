@@ -10,9 +10,11 @@
 
 
 // 2-Masala
-let a = 6, b = 12
-for (let i = a; i <= b; i++) {
-    console.log(i);
+{
+    let a = 6, b = 12
+    for (let i = a; i <= b; i++) {
+        console.log(i);
+    }
 }
 
 
